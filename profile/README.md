@@ -1,4 +1,3 @@
-cat > profile/README.md << 'EOF'
 # Thinkazoo Creative  
 **Where Creativity Meets Intelligent Technology**
 
