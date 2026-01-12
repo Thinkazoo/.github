@@ -1,6 +1,6 @@
 # Thinkazoo Creative <span role="img" aria-label="Artist Palette">🎨</span>
 
-### Where Creativity Meets Intelligent Technology
+## Where Creativity Meets Intelligent Technology
 
 ---
 
