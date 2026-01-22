@@ -1,8 +1,7 @@
-<div align="center">
+# Thinkazoo Creative <span role="img" aria-label="Artist Palette">🎨</span>
 
-# Thinkazoo Creative <span role="img" aria-hidden="true">🎨</span>
-
-**Where Creativity Meets Intelligent Technology**
+ain
+### Where Creativity Meets Intelligent Technology
 
 </div>
 
